@@ -11,7 +11,7 @@ The project focuses on practical implementations of stable diffusion models to c
 
 - **Name**: A Mohammed Faazil  
 - **Company**: CODTECH IT SOLUTIONS PVT. LTD  
-- **Internship ID**: [Your ID]  
+- **Internship ID**: CT08EHJ 
 - **Domain**: Machine Learning  
 - **Duration**: December 17, 2024 – January 17, 2025  
 
